@@ -1,11 +1,13 @@
-import java.util.List;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 public class Main {
 
     public static void main(String[] args) {
-        List<String> list = null;
-        for(String a : list){
-            System.out.println(a);
-        }
+
+
+
     }
 }
